@@ -1,4 +1,4 @@
-module swaggerFiles
+module github.com/lliuhuan/files
 
 go 1.17
 
